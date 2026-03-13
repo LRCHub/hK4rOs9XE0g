@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "First Day",
+  "base_artist": "Ella Mai",
+  "createdAt": "2026-03-13T14:47:19.679584Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Intro (First Day Of Summer)",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/01_Intro_(First_Day_Of_Summer)_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "First Day Of My Life",
+      "artist": "Bright Eyes",
+      "has_synced": true,
+      "path": "select/02_First_Day_Of_My_Life_Bright_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "First Day of My Life",
+      "artist": "The Rasmus",
+      "has_synced": true,
+      "path": "select/03_First_Day_of_My_Life_The_Rasmus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "First Day Of My Life",
+      "artist": "The Rasmus",
+      "has_synced": false,
+      "path": "select/04_First_Day_Of_My_Life_The_Rasmus.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "First Day of My Life - Acoustic Demo",
+      "artist": "The Rasmus",
+      "has_synced": false,
+      "path": "select/05_First_Day_of_My_Life_-_Acoustic_Demo_The_Rasmus.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "First Day Of My Life (Acoustic Demo)",
+      "artist": "The Rasmus",
+      "has_synced": false,
+      "path": "select/06_First_Day_Of_My_Life_(Acoustic_Demo)_The_Rasmus.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "First Day of My Life - Live Radio Session",
+      "artist": "The Rasmus",
+      "has_synced": true,
+      "path": "select/07_First_Day_of_My_Life_-_Live_Radio_Session_The_Rasmus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "First Day Of My Life (Live Radio Session)",
+      "artist": "The Rasmus",
+      "has_synced": true,
+      "path": "select/08_First_Day_Of_My_Life_(Live_Radio_Session)_The_Rasmus.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "First Day in Hell",
+      "artist": "Arch Enemy",
+      "has_synced": true,
+      "path": "select/09_First_Day_in_Hell_Arch_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "First Day of My Life",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/10_First_Day_of_My_Life_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "01 First Day Of My Life",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/11_01_First_Day_Of_My_Life_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "First Day Of My Life - Acoustic",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/12_First_Day_Of_My_Life_-_Acoustic_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "02 First Day Of My Life (Acoustic)",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/13_02_First_Day_Of_My_Life_(Acoustic)_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "04 First Day Of My Life",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/14_04_First_Day_Of_My_Life_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "06 First Day Of My Life (Acoustic)",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/15_06_First_Day_Of_My_Life_(Acoustic)_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This Is My First Day and I'm Indian and I Work at a Gas Station",
+      "artist": "Sun Kil Moon",
+      "has_synced": true,
+      "path": "select/16_This_Is_My_First_Day_and_I'm_Indian_and_I_Work_at_a_Gas_Station_Sun_Kil_Moon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "First Day",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_First_Day_Ella_Mai.txt"
+    }
+  ]
+}
